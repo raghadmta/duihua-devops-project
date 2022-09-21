@@ -161,3 +161,6 @@ to run this deployment pipline follow this steps:
 3. [Aisha Alsubaie](https://github.com/Aishabs/)
 4. [Roba Almehmadi](https://github.com/Robamohammed)
 5. [Eman Alotaibi ](https://github.com/emanfeah)
+
+---
+###### This project was part of Saudi Digital Acadmy's ( SDA ) DevOps BootCamp 2022 , Sudos Team
